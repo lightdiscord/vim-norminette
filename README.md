@@ -2,8 +2,9 @@
 
 ## Guide
 
-### Usage example
+### Usage
 
 ```vim
-:cexpr system("norminette")
+:compiler norminette
+:make
 ```
